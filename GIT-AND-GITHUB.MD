@@ -1,5 +1,4 @@
 **Git & Github**
-
 **Initialization of any project:**
 1. Login to github:
 2. Create a repository with your project name.(Create README.md, .gitignore files)
